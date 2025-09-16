@@ -164,4 +164,72 @@ Apesar dos desafios técnicos, conceituais e práticos associados à sua impleme
 
 ## Referências
 
-[Incluir referências relevantes aqui]
+1. Lakoff, G., & Johnson, M. (1980). *Metaphors We Live By*. University of Chicago Press.
+
+2. Chomsky, N. (1957). *Syntactic Structures*. Mouton de Gruyter.
+
+3. Peirce, C. S. (1931-1958). *Collected Papers of Charles Sanders Peirce* (Vols. 1-8). Harvard University Press.
+
+4. Turing, A. M. (1950). Computing machinery and intelligence. *Mind*, 59(236), 433-460.
+
+5. Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379-423.
+
+6. Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. *Advances in Neural Information Processing Systems*, 30.
+
+7. Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. *arXiv preprint arXiv:1810.04805*.
+
+8. Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. *Advances in Neural Information Processing Systems*, 33, 1877-1901.
+
+9. Eco, U. (1976). *A Theory of Semiotics*. Indiana University Press.
+
+10. Saussure, F. de (1916). *Course in General Linguistics*. Columbia University Press.
+
+11. Jackendoff, R. (2002). *Foundations of Language: Brain, Meaning, Grammar, Evolution*. Oxford University Press.
+
+12. Pinker, S. (1994). *The Language Instinct: How the Mind Creates Language*. William Morrow and Company.
+
+13. Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis*, 58(1), 7-19.
+
+14. Hutchins, E. (1995). *Cognition in the Wild*. MIT Press.
+
+15. Gibson, J. J. (1979). *The Ecological Approach to Visual Perception*. Houghton Mifflin.
+
+16. Maturana, H. R., & Varela, F. J. (1987). *The Tree of Knowledge: The Biological Roots of Human Understanding*. Shambhala Publications.
+
+17. Hofstadter, D. R. (1979). *Gödel, Escher, Bach: An Eternal Golden Braid*. Basic Books.
+
+18. Bengio, Y., Courville, A., & Vincent, P. (2013). Representation learning: A review and new perspectives. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 35(8), 1798-1828.
+
+19. LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521(7553), 436-444.
+
+20. Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
+
+21. Russell, S., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson.
+
+22. Mitchell, T. M. (1997). *Machine Learning*. McGraw-Hill.
+
+23. Jurafsky, D., & Martin, J. H. (2020). *Speech and Language Processing* (3rd ed.). Pearson.
+
+24. Manning, C. D., & Schütze, H. (1999). *Foundations of Statistical Natural Language Processing*. MIT Press.
+
+25. Goldberg, Y. (2017). *Neural Network Methods for Natural Language Processing*. Morgan & Claypool Publishers.
+
+26. Karpathy, A. (2015). The unreasonable effectiveness of recurrent neural networks. *Andrej Karpathy blog*. Retrieved from http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+27. Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). Distributed representations of words and phrases and their compositionality. *Advances in Neural Information Processing Systems*, 26.
+
+28. Pennington, J., Socher, R., & Manning, C. D. (2014). Glove: Global vectors for word representation. *Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 1532-1543.
+
+29. Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. *OpenAI blog*, 1(8), 9.
+
+30. OpenAI. (2023). GPT-4 Technical Report. *arXiv preprint arXiv:2303.08774*.
+
+31. Touvron, H., Lavril, T., Izacard, G., Martinet, X., Lachaux, M. A., Lacroix, T., ... & Lample, G. (2023). LLaMA: Open and efficient foundation language models. *arXiv preprint arXiv:2302.13971*.
+
+32. Chiang, W. L., Li, Z., Lin, Z., Sheng, Y., Wu, Z., Zhang, H., ... & Stoica, I. (2023). Vicuna: An open-source chatbot impressing gpt-4 with 90%* chatgpt quality. *See https://vicuna. lmsys. org (accessed 14 April 2023)*.
+
+33. Bubeck, S., Chandrasekaran, V., Eldan, R., Gehrke, J., Horvitz, E., Kamar, E., ... & Zhang, Y. (2023). Sparks of artificial general intelligence: Early experiments with gpt-4. *arXiv preprint arXiv:2303.12712*.
+
+34. Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., ... & Fedus, W. (2022). Emergent abilities of large language models. *arXiv preprint arXiv:2206.07682*.
+
+35. Hoffmann, J., Borgeaud, S., Mensch, A., Buchatskaya, E., Cai, T., Rutherford, E., ... & Sifre, L. (2022). Training compute-optimal large language models. *arXiv preprint arXiv:2203.15556*.

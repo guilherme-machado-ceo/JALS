@@ -102,6 +102,6 @@ O JALS representa nossa crença fundamental de que a tecnologia deve servir para
 
 ---
 
-**Data:** Janeiro 2025  
+**Data:** Setembro 2025  
 **Versão:** 1.0  
 **Licença:** Creative Commons Attribution 4.0 International

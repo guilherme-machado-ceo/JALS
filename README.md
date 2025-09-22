@@ -4,6 +4,8 @@
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://github.com/guilherme-machado-ceo/JALS/docs)
 
+**🌐 Language Versions:** [English](README_EN.md) | [Português](README.md)
+
 JALS (Journey Amplified Language Systems) é um framework de pesquisa e desenvolvimento aplicado à interseção entre linguagem, sistemas digitais e inteligência artificial.
 
 ## Visão Geral
@@ -12,10 +14,17 @@ O JALS parte da premissa de que linguagem é o núcleo da cognição, da comunic
 
 ## Documentação
 
+### Português
 - [Whitepaper Técnico-Científico](docs/whitepaper.md)
 - [Manifesto JALS](docs/manifesto.md)
 - [Arquitetura do Sistema](docs/architecture/)
 - [Guia de Início Rápido](docs/user_guides/getting_started.md)
+
+### English
+- [Technical-Scientific Whitepaper](docs/whitepaper_EN.md)
+- [JALS Manifesto](docs/manifesto_EN.md)
+- [System Architecture](docs/architecture/)
+- [Getting Started Guide](docs/user_guides/getting_started_EN.md)
 
 ## Instalação
 
@@ -76,6 +85,8 @@ JALS/
 ## Contribuindo
 
 Por favor, leia [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes sobre nosso código de conduta e o processo para enviar pull requests.
+
+**English:** Please read [CONTRIBUTING_EN.md](CONTRIBUTING_EN.md) for details about our code of conduct and the process for submitting pull requests.
 
 ## Licença
 
